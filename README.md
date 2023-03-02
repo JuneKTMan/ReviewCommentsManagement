@@ -12,6 +12,6 @@ User can run this application to track the code review in Java.
 
 
 ## Technologies Used
-Java
-Java Swing
+* Java
+* Java Swing
 
